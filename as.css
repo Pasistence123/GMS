@@ -1,0 +1,11 @@
+.btn1:focus, .btn1:hover {
+    text-decoration: none;
+}
+.call-f-act1:hover {
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
+.btn1.btn-sm1 {
+    padding: 0.4rem 1.2rem;
+}
